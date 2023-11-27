@@ -15,6 +15,27 @@ export const careerSectionData = [
     description:
       "Pellentesque posuere. Etiam rhoncus. Praesent blandit laoreet nibh. Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.",
   },
+  {
+    company: "COMPANY NAME",
+    role: "Position / Role",
+    date: "MMM YYYY - MMM YYYY",
+    description:
+      "Pellentesque posuere. Etiam rhoncus. Praesent blandit laoreet nibh. Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.",
+  },
+  {
+    company: "COMPANY NAME",
+    role: "Position / Role",
+    date: "MMM YYYY - MMM YYYY",
+    description:
+      "Pellentesque posuere. Etiam rhoncus. Praesent blandit laoreet nibh. Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.",
+  },
+  {
+    company: "COMPANY NAME",
+    role: "Position / Role",
+    date: "MMM YYYY - MMM YYYY",
+    description:
+      "Pellentesque posuere. Etiam rhoncus. Praesent blandit laoreet nibh. Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.",
+  },
 ];
 
 export const expertiseSectionData = {
